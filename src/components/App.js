@@ -36,12 +36,12 @@ const App = () => {
     return (
         <>
             <Navigation/>
-            {/* <Banner/>
+            <Banner/>
             <InfoUpdate/>
             <Categories/>
-            <Form months={months} days={days} years={years}/> */}
+            <Form months={months} days={days} years={years}/>
             {/* <Chef/> */}
-            <Menu/>
+            {/* <Menu/> */}
             <SocialMedia/>
             <Footer/>
             
