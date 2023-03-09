@@ -1,0 +1,59 @@
+/* body {
+    background-image: url('../assets/fresh_vegetables.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+} */
+
+.chef-flex-container {
+    margin-left: 27vw;
+    margin-right: 27.5vw;
+    min-width: 367px;
+    /* min-height: 678px; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(255, 255, 255, 0.7);
+}
+
+.ui.segment.details {
+    
+    margin-left: 5vw;
+    margin-right: 5vw;
+    background-color: rgb(120, 210, 127);
+}
+
+.ui.medium.circular.image.chefRiri {
+   margin-left: 1vw;
+}
+
+.chefName {
+    font-size: 1.7vw;
+}
+
+.title {
+    font-size: 1vw;
+    font-weight: lighter;
+}
+
+.description-paragraph {
+    /* font-size: 2.5em; */
+    font-size: 1vw;
+}
+
+.certification {
+    font-weight: bold;
+    font-size: 1vw;
+}
+
+.ui.right.labeled.icon.button.home {
+    background-color: rgb(60, 180, 69);
+    min-width: 102px;
+}
+
+.angle.right.icon.home {
+    background-color: rgb(60, 180, 69); 
+}
+
+.ui.small.image.transparent-logo {
+    margin-top: 4vh
+}

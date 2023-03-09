@@ -1,0 +1,51 @@
+.categories-flex-container {
+    display: flex;
+    margin-top: -17px; 
+}
+
+.circular.comments.outline.icon {
+    margin-top: 20px;
+    background-color: white;
+}
+.circular.shopping.cart.icon {
+    margin-top: 20px;
+    background-color: white;
+}
+.circular.utensils.icon {
+    margin-top: 20px;
+    background-color: white;
+}
+.circular.star.outline.icon {
+    margin-top: 20px;
+    background-color: white;
+}
+.consultation {
+    background: rgb(60, 180, 69);
+    width: 25%;
+    text-align: center;
+}
+.shopping {
+    background: rgb(128, 125, 125);
+    width: 25%;
+    text-align: center;
+}
+.cooking {
+    background: rgb(251, 163, 4);
+    width: 25%;
+    text-align: center;
+}
+.cleanUp {
+    background: rgb(105, 193, 255);
+    width: 25%;
+    text-align: center;
+}
+
+.categoryNames {
+    margin-top: 10px;
+    color: white;
+}
+
+h3 {
+    margin-top: 10px;
+    color: white;
+}

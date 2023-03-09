@@ -1,0 +1,43 @@
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: center;
+}
+
+.covid {
+    color: white;
+    text-decoration: underline;
+    font-size: 12px;
+}
+
+.logo {
+    transform: translateY(-340px);
+}
+
+.ui.fluid.image {
+    height: 400px
+}
+
+.ui.centered {
+    transform: translateY(-340px);
+    background-color: rgb(60, 180, 69);
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+}
+
+.ui.message {
+    /* text-align: center; */
+    font-size: 17px;
+    margin-top: -300px;
+    background-color: rgb(255, 97, 97);
+    color: white;
+    border-radius: 0px;
+    
+}
+
+.updatedInfoSpan {
+    font-weight: bold;
+}
+

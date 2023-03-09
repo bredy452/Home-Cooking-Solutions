@@ -1,0 +1,16 @@
+h3.copyright {
+    text-align: center;
+    font-size: 12px;
+    padding-top: 15px;
+}
+
+.copyright {
+    /* margin-top: 0px; */
+    margin-bottom: -3vh;
+    min-width: 570px;
+    background-color: black;
+}    
+
+.covid19 {
+    margin-top: 2vh;
+}

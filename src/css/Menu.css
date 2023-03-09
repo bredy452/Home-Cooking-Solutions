@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(120, 210, 127);
+}
+
+.ui.three.column.grid {
+    margin-left: 3vw;
+    margin-right: 3vw;
+}
+
+.ui.segment.menu {
+    justify-content: center;
+    margin-top: 2vh;
+    margin-left: 40vw;
+    margin-right: 40vw;
+    background-color: rgb(255, 255, 95);
+    box-shadow: rgb(219, 186, 59) 5px 5px 0px;
+
+}
+
+.ui.segment.explanation {
+    text-align: center;
+    margin-left: 30vw;
+    margin-right: 30vw;
+    border-radius: 20px 0px;
+    background-color: rgb(238, 204, 164);
+    font-size: 20px
+}
+
+/* .column {
+    max-width: 100%;
+    height: auto;
+} */
+
+.pic-div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-left: 1vw;
+    margin-right: 1vw;
+    gap: 10px;
+}
+
+.pics {
+    
+    
+    
+}
+
+.ui.fluid.image {
+    /* height: auto; */
+    
+    
+
+    
+}
